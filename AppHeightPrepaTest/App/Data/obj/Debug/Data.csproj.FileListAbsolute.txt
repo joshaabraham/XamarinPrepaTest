@@ -1,0 +1,13 @@
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\bin\Debug\Data.dll.config
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\bin\Debug\Data.dll
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\bin\Debug\Data.pdb
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\bin\Debug\EntityFramework.dll
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\bin\Debug\EntityFramework.xml
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\bin\Debug\fr\EntityFramework.resources.dll
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\obj\Debug\Data.csproj.CopyComplete
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\obj\Debug\Data.dll
+D:\c_sharp_projets\Xamarin\HeightApp\App\Data\obj\Debug\Data.pdb
